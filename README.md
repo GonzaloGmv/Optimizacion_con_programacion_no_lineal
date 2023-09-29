@@ -25,7 +25,7 @@ Ahora con estos datos podemos trazar las curvas de respuesta de cada canal de ma
 ![Figure_1](https://github.com/GonzaloGmv/Optimizacion_con_programacion_no_lineal/assets/91721237/ccb2da9a-c5c3-4c74-80d9-f0f675f9d993)
 
 
-Para continuar hemos utilizado la biblioteca CVXPY para resolver el problema de optimización. Y los resultados obtenidos son:
+Para continuar hemos utilizado la biblioteca CVXPY. Este modelo emplea esta librería para abordar la tarea de optimización. Con CVXPY, se busca la asignación más eficiente de recursos presupuestarios que maximice el retorno de inversión (ROI) dentro de los límites establecidos.
 
 ![image](https://github.com/GonzaloGmv/Optimizacion_con_programacion_no_lineal/assets/91721237/d308c893-27b8-474a-8ebd-a7137b848e5d)
 
